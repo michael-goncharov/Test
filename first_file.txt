@@ -3,3 +3,5 @@ test content of the file
 some changes
 
 new changes in master
+
+new line of code
