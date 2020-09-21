@@ -1,3 +1,5 @@
 test content of the file
 
 some changes
+
+new changes in master
